@@ -7,4 +7,4 @@ The programme returns a csv file containing the statistical tests (chi2 and hype
 1. Download in csv format for different species the orthologs of human genes encoding a protein on Biomart Ensembl (https://www.ensembl.org/biomart/martview/c92f5711966e86d6f9fd7bc989766704) 
 2. Put all files uploaded in a file marked "DATA".
 3. Download the files _launch_programm.sh_, _step1.py_ and _step2.R_ and put them in the parent directory of the DATA directory.
-4. Start the program _launch_programm.sh`: `./launch_programm.sh`.
+4. Start the program _launch_programm.sh_: `./launch_programm.sh`.
